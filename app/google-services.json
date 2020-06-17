@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741771563978",
+    "firebase_url": "https://todayfcm.firebaseio.com",
+    "project_id": "todayfcm",
+    "storage_bucket": "todayfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741771563978:android:0aae87cf5823b05a377533",
+        "android_client_info": {
+          "package_name": "com.todayschedule.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741771563978-itu30rjrkaoguu5mmr6tjuhor1ds8blf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4P-E3XfpAYRKUIaOAeWR9IE9QPFZNFyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741771563978-itu30rjrkaoguu5mmr6tjuhor1ds8blf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
